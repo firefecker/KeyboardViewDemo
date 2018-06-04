@@ -1,4 +1,4 @@
-package com.hk.keyboarddemo;
+package com.fire.keyboarddemo;
 
 import org.junit.Test;
 

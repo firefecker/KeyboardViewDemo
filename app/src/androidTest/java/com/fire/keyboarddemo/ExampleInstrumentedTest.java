@@ -1,4 +1,4 @@
-package com.hk.keyboarddemo;
+package com.fire.keyboarddemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hk.keyboarddemo", appContext.getPackageName());
+        assertEquals("com.fire.keyboarddemo", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.hk.keyboarddemo;
+package com.fire.keyboarddemo;
 
 import android.inputmethodservice.KeyboardView;
 import android.support.constraint.ConstraintLayout;
@@ -8,8 +8,6 @@ import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.animation.Animation;
-import android.view.animation.TranslateAnimation;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;

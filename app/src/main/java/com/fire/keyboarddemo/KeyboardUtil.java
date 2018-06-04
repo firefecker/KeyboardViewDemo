@@ -1,4 +1,4 @@
-package com.hk.keyboarddemo;
+package com.fire.keyboarddemo;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,7 +7,6 @@ import android.inputmethodservice.KeyboardView;
 import android.inputmethodservice.KeyboardView.OnKeyboardActionListener;
 import android.text.Editable;
 import android.text.InputType;
-import android.util.Log;
 import android.view.View;
 import android.view.WindowManager;
 import android.view.animation.Animation;

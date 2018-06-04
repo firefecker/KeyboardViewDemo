@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/view_root"
-    tools:context="com.hk.keyboarddemo.MainActivity"
+    tools:context="com.fire.keyboarddemo.MainActivity"
     android:background="#ffffff">
 
     <EditText
